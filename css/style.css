@@ -1,0 +1,120 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo{
+	text-align: center;
+	box-shadow: -2px -13px 20px 0px #333;
+}
+
+.logo img{
+	width: 100px;
+	margin-top: 10px;
+}
+
+.container{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.headtext{
+	font-weight: bold;
+	font-size: 25px;
+	color: #555555;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.skyblue{
+	color: skyblue;
+}
+
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.yellow{
+	columns: yellow;
+}
+
+.headimage img{
+	width: 100%;
+	border-radius: 10px;
+}
+
+.headimage{
+	margin-bottom: 50px;
+}
+
+.secondtext{
+	margin-bottom: 50px;
+}
+
+.secondtext h1 {
+	font-weight: bold;
+	font-size: 50px;
+	color: #444444;
+}
+
+.ptext{
+	margin-bottom: 50px;
+}
+
+.ptext p{
+	font-size: 20px;
+	color: #444444;
+	text-align: justify;
+}
+
+.lasttext{
+	margin-bottom: 50px;
+
+}
+
+.lasttext h1{
+	font-size: 60px;
+	font-weight: bolder;
+	background-color: #495a491f;
+	color: white;
+	padding: 100px;
+	text-align: center;
+	border-radius: 10px;
+	text-shadow: -3px 4px 9px #333333;
+}
+
+
+.footer{
+	text-align: center;
+	box-shadow: 6px 7px 20px 0px #333;
+}
+
+.footer img{
+	width: 100px;
+	margin-top: 10px;
+}
+
+.copytext{
+	text-align: center;
+}
+
+.copytext button{
+	padding: 20px;
+	margin: 20px;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #9c27b08a;
+	color: white;
+	border-radius: 5px;
+	transition-duration: .5s;
+}
+
+.copytext button:hover{
+	background-color: #480a52d9;
+}
